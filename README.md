@@ -79,26 +79,26 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 ## 项目部分截图
 * 首页<br>
-<img src="/assets/首页.jpg"  style="width:375px;height:670px" />
+<img src="/assets/首页.jpg"  style="width:430px;height:932px" />
 * 沸点<br>
-![沸点](/assets/沸点.jpg "沸点")
+<img src="/assets/沸点.jpg"  style="width:430px;height:932px" />
 * 发现<br>
-![发现](/assets/发现.jpg "发现")
+<img src="/assets/发现.jpg"  style="width:430px;height:932px" />
 * 课程<br>
-![课程](/assets/课程.jpg "课程")
+<img src="/assets/课程.jpg"  style="width:430px;height:932px" />
 * 我的<br>
-![我的](/assets/我的.jpg "我的")
+<img src="/assets/我的.jpg"  style="width:430px;height:932px" />
 * 文章详情<br>
-![文章详情](/assets/文章详情.jpg "文章详情")
+<img src="/assets/文章详情.jpg"  style="width:430px;height:932px" />
 * 沸点详情<br>
-![沸点详情](/assets/沸点详情.jpg "沸点详情")
+<img src="/assets/沸点详情.jpg"  style="width:430px;height:932px" />
 * webview<br>
-![webview](/assets/webview.jpg "webview")
+<img src="/assets/webview.jpg"  style="width:430px;height:932px" />
 * 标签管理<br>
-![标签管理](/assets/标签管理.jpg "标签管理")
+<img src="/assets/标签管理.jpg"  style="width:430px;height:932px" />
 * 阅读记录<br>
-![阅读记录](/assets/阅读记录.jpg "阅读记录")
+<img src="/assets/阅读记录.jpg"  style="width:430px;height:932px" />
 * 兑换<br>
-![兑换](/assets/兑换.jpg "兑换")
+<img src="/assets/兑换.jpg"  style="width:430px;height:932px" />
 * 内容数据<br>
-![内容数据](/assets/内容数据.jpg "内容数据")
+<img src="/assets/内容数据.jpg"  style="width:430px;height:932px" />

@@ -79,7 +79,7 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 ## 项目部分截图
 * 首页<br>
-![首页](/assets/首页.jpg=375*670 "首页")
+<img src="/assets/首页.jpg"  style="width:375px;height:670px" />
 * 沸点<br>
 ![沸点](/assets/沸点.jpg "沸点")
 * 发现<br>

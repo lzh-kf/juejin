@@ -77,15 +77,28 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-![首页](/assets/首页.jpg "首页")
+## 项目部分截图
+* 首页<br>
+![首页](/assets/首页.jpg=375*670 "首页")
+* 沸点<br>
 ![沸点](/assets/沸点.jpg "沸点")
+* 发现<br>
 ![发现](/assets/发现.jpg "发现")
+* 课程<br>
 ![课程](/assets/课程.jpg "课程")
+* 我的<br>
 ![我的](/assets/我的.jpg "我的")
+* 文章详情<br>
 ![文章详情](/assets/文章详情.jpg "文章详情")
+* 沸点详情<br>
 ![沸点详情](/assets/沸点详情.jpg "沸点详情")
+* webview<br>
 ![webview](/assets/webview.jpg "webview")
+* 标签管理<br>
 ![标签管理](/assets/标签管理.jpg "标签管理")
+* 阅读记录<br>
 ![阅读记录](/assets/阅读记录.jpg "阅读记录")
+* 兑换<br>
 ![兑换](/assets/兑换.jpg "兑换")
+* 内容数据<br>
 ![内容数据](/assets/内容数据.jpg "内容数据")

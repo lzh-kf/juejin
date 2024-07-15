@@ -19,7 +19,6 @@ yarn android
 ```
 [app下载链接](https://www.pgyer.com/QTYKTE0x)
 密码：123456 
- 项目截图
 ## 项目部分截图
 * 首页<br>
 <img src="/assets/首页.jpg"  style="width:430px;height:932px" />

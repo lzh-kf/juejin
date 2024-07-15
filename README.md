@@ -19,7 +19,6 @@ yarn android
 5. **部分页面开发**（首页、沸点、发现、课程、我的、登录、搜索、文章详情、沸点详情、webview内嵌、标签管理、阅读记录、内容数据、福利兑换）。
 6. **公共组件开发**（顶部导航栏、页面鉴权、搜索框、markdown、评论卡片、文章卡片、沸点卡片、分割线）。
  项目截图
-<img src="/assets/简书.jpg"  style="width:430px;height:932px" />
 ## 项目部分截图
 * 首页<br>
 <img src="/assets/首页.jpg"  style="width:430px;height:932px" />

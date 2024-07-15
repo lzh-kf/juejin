@@ -8,3 +8,4 @@ const useTheme = () => {
   return { color, isDark, backgroundColor }
 }
 export default useTheme
+

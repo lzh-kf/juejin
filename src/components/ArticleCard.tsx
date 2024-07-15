@@ -11,7 +11,7 @@ const ArticleCard = (props: any): React.JSX.Element => {
     <ContainerView style={styles.container}>
       <View style={styles.title}>
         <ContainerText style={styles.titleText} numberOfLines={1}>
-          从零开始搭建前端项目（webpack+ts+vue）
+          11从零开始搭建前端项目（webpack+ts+vue）
         </ContainerText>
       </View>
       <View style={styles.content}>

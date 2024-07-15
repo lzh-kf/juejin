@@ -5,7 +5,6 @@ import { View, Image, Pressable } from 'react-native'
 import styleSheet from '../utils/styleSheet'
 import useTheme from '../hooks/useTheme'
 import { useNavigation } from '@react-navigation/native'
-
 const TopTitle = props => {
   const navigation = useNavigation()
   const { isDark } = useTheme()
